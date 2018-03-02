@@ -167,6 +167,11 @@ mkdir -p .timecore
 nano .timecore/time.conf
 ```
 
+Some hosts may have firewall blocks by default. The below will open up the required port
+```
+ufw allow 30000/tcp
+```
+
 Replace:
 
 externalip=VPS_IP_ADDRESS
