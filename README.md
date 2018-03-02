@@ -199,6 +199,14 @@ CTRL X to save it. Y for yes, then ENTER.
 ./timed &
 ```
 
+We also want the wallet to start on boot, so you will want to add a cron to do this
+```
+crontab -e
+```
+```
+@reboot /root/timed
+```
+
 ```
 apt-get -y install virtualenv python-pip
 ```
