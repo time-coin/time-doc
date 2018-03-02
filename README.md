@@ -36,7 +36,7 @@ Now that you have the address created, you will send 10,000 TIME to your address
 
 Click on the "Send" tab and on "Pay To", enter the address you just created. You will see that in "Label" the name that you put before will appear.
 
-Then you must enter the value of "1000" in "Amount" and you must NOT select "Substract fee from amount". Finally, you must click on the "Send" button.
+Then you must enter the value of "10000" in "Amount" and you must NOT select "Substract fee from amount". Finally, you must click on the "Send" button.
 
 In the "Overview" tab, a "Payment to yourself" will appear. This transaction must be confirmed by the network, so you will have to wait for it to be confirmed (it may take five minutes of waiting depending on the state of the network and the commission chosen).
 
