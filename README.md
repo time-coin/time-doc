@@ -5,7 +5,7 @@ In this guide you will learn how to prepare a TIME Masternode in Ubuntu version 
 This guide was done with the following environment:
 * Local: Windows 10 64 bit.
 * Remote: Ubuntu 16.04 64 bit.
-* TIME Version: 1.2.1.
+* TIME Version: 1.0.0.
 
 ## Initial requirements
 
@@ -200,6 +200,10 @@ git clone https://github.com/time-coin/sentinel /sentinel
 
 ```
 cd /sentinel
+```
+
+```
+mkdir database
 ```
 
 ```
