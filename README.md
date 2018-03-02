@@ -211,6 +211,17 @@ git clone https://github.com/time-coin/sentinel /sentinel
 cd /sentinel
 ```
 
+You now need to edit your sentinel.conf to look for your time.conf. 
+
+```
+nano sentinel.conf
+````
+
+Add the below to sentinel.conf
+```
+time_conf=/root/.timecore/time.conf
+```
+
 ```
 mkdir database
 ```
