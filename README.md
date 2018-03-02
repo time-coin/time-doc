@@ -22,7 +22,7 @@ The recommended requirements for the master node would be the following:
 
 ### TIME Transaction
 
-In order to have a TIME masternode you must have a transaction of 1,000 TIME in your desktop Cold Wallet.
+In order to have a TIME masternode you must have a transaction of 10,000 TIME in your desktop Cold Wallet.
 
 To carry this out you need to open your TIME Core wallet.
 
