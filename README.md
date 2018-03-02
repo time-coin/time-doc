@@ -152,6 +152,14 @@ wget https://github.com/time-coin/timecoin.io/releases/download/1/time-cli
 ```
 
 ```
+chmod +x ./timed
+```
+
+```
+chmod +x ./time-cli
+```
+
+```
 mkdir -p .timecore
 ```
 
