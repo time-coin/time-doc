@@ -50,10 +50,6 @@ The options that you have to select are the following:
 * "Enable coin control features".
 * "Show Masternodes Tab".
 
-In the image you will see the two options that you will have to select.
-
-![Options on Wallet Settings to select](https://github.com/time-coin/time-doc/blob/master/masternode-setup/timewalletsettings.png "Wallet Settings")
-
 Press "OK" button. In order to enable the new options, you have to restart TIME Core wallet.
 
 ### Creating Masternode private key
