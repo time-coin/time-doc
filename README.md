@@ -167,11 +167,6 @@ mkdir -p .timecore
 nano .timecore/time.conf
 ```
 
-Some hosts may have firewall blocks by default. The below will open up the required port
-```
-ufw allow 30000/tcp
-```
-
 Replace:
 
 externalip=VPS_IP_ADDRESS
@@ -208,6 +203,11 @@ crontab -e
 ```
 CTRL X to save it. Y for yes, then ENTER.
 
+
+Some hosts may have firewall blocks by default. The below will open up the required port
+```
+ufw allow 30000/tcp
+```
 
 ```
 apt-get -y install virtualenv python-pip
