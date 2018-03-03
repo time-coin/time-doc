@@ -206,6 +206,8 @@ crontab -e
 ```
 @reboot /root/timed
 ```
+CTRL X to save it. Y for yes, then ENTER.
+
 
 ```
 apt-get -y install virtualenv python-pip
@@ -229,6 +231,8 @@ Add the below to sentinel.conf
 ```
 time_conf=/root/.timecore/time.conf
 ```
+CTRL X to save it. Y for yes, then ENTER.
+
 
 ```
 mkdir database
