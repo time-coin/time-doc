@@ -144,11 +144,11 @@ apt-get -y install libdb4.8++-dev
 ```
 
 ```
-wget https://github.com/time-coin/timecoin.io/releases/download/1/timed
+wget https://github.com/time-coin/timecoin.io/releases/download/2/timed
 ```
 
 ```
-wget https://github.com/time-coin/timecoin.io/releases/download/1/time-cli
+wget https://github.com/time-coin/timecoin.io/releases/download/2/time-cli
 ```
 
 ```
